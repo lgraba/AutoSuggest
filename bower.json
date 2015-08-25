@@ -1,0 +1,23 @@
+{
+  "name": "AutoSuggest",
+  "version": "0.1.0",
+  "homepage": "https://github.com/lgraba/AutoSuggest",
+  "authors": [
+    "lgraba <lgraba@gmail.com>"
+  ],
+  "description": "A small auto-suggest dropdown for forms",
+  "main": "index.php",
+  "keywords": [
+    "auto-suggest",
+    "dropdown",
+    "Typeahead.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
