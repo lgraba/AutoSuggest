@@ -13,3 +13,6 @@ An auto-suggesting dropdown in PHP
 3. Initialized Bower and installed Typeahead.js. Connected Bower to Composer for single command installation/update
 4. Constructed form and js requirements in index.php
 5. Created global.js for Bloodhound and Typeahead functionality instantiation
+6. Styles
+
+Thanks, Alex!

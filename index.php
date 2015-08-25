@@ -11,6 +11,7 @@
 		<meta charset="UTF-8">
 		<title>AutoSuggest - Search Users</title>
 
+		<link href='https://fonts.googleapis.com/css?family=Karla|Cabin+Condensed' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="assets/css/global.css">
 	</head>
 	<body>
